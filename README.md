@@ -1,4 +1,3 @@
-# AI-Study-Tools-Platforms-Content-Critique-
 # Literature Verification Log
 
 ## Topic: Mobile-Based Women's Safety and Empowerment Systems in Samal Island, Davao del Norte
